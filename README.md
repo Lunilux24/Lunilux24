@@ -16,13 +16,13 @@ Outside of school, I like to swim, race cars on my simulator and read fantasy no
 - Game development in Unity with C#
 - Japanese (Currently N4 ^_^)
 
-## I excel in:
+## 💪 I excel in:
 - Java
 - Python
 - Web Development languages such as HTML, CSS, Javascript and libraries like React
 - OpenCV
 
-## I have experience with:
+## 💡 I have experience with:
 - C++
 - R
 - C#
