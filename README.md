@@ -7,6 +7,7 @@ Outside of school, I like to swim, race F1 cars on my racing simulator and read 
 
 ## 🔭 I’m currently working on
 - An instant messaging platform that uses UDP and TCP to communicate between clients. I started this project because I took a networking class and really enjoyed learning about how communication works online. I am putting the finishing touches on the project. Take a look at the repository for more details!
+- A budgeting app to help me manage my money better. More information on this project to come in the near future!
 - Software for the Aerial Robotics Club at my school. I can't share too many details as it's classified, however I recently completed development on a search algorithm that the drone can use to survey a field for our upcoming UAS competition.
 - Getting my advance pilot certificate for Canadian drone pilots.
 - A few more secret projects...
