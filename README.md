@@ -19,7 +19,7 @@ Outside of computer related work, I like to swim, race F1 cars on my racing simu
 
 ## 💪 I excel in:
 - Python
-- Web Development languages such as HTML/CSS and front-end frameworks such as React
+- Networking
 - Docker
 
 ## 💡 I have experience with:
