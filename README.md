@@ -9,7 +9,7 @@ Outside of computer related work, I like to swim, race F1 cars on my racing simu
 
 ## 🔭 I’m currently working on
 - A budgeting app to help me manage my money better. More information on this project to come in the near future!
-- A Homelab for my house with self-hosted applications like a private media server, file server and network montioring tools.
+- Getting my AWS certification.
 - Getting my advance pilot certificate for Canadian drone pilots.
 
 ## 🌱 I’m currently learning 
