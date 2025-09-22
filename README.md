@@ -24,13 +24,14 @@ Outside of computer related work, I like to swim, race F1 cars on my racing simu
 
 ## 💡 I have experience with:
 - Java
-- C++
+- CI/CD Pipelines
 - Nginx
+- Postgres & SQLite
+- Grafana + Prometheus
+- Testing
 - C# + Unity
 - Javascript (React)
 - PHP
-- SQL
-- Django/SQLite
 
 ## 📫 How to reach me:
 [Email](bassimbeshry24@gmail.com)  
