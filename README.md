@@ -6,18 +6,16 @@ I have a passion for drones and robots which led me to join the Aerial Robotics 
 Apart from my career aspirations, I enjoy lane swimming, sim racing, reading and gaming. My favorite book is The Sound of Waves by Yukio Mishima and some of my favorite games include Destiny 2 and the Nier series for their deep and rich lore.
 
 ## 🔭 I’m currently working on
-- A budgeting app to help me manage my money better. More information on this project to come in the near future!
-- Getting my AWS certification.
-- Getting my advance pilot certificate for Canadian drone pilots.
+- Revising my F1 Telemetry Project to use a serverless architecture
 
 ## 🌱 I’m currently learning 
-- Svelte + Tauri
+- AI Technologies like LangChain
 - AWS
 - Japanese (Currently N4 ^_^)
 
 ## 💪 I excel in:
 - Python
-- Networking
+- Networking and Cloud Infrastructure
 - Docker
 
 ## 💡 I have experience with:
