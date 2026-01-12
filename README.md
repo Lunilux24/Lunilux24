@@ -7,10 +7,10 @@ Apart from my career aspirations, I enjoy lane swimming, sim racing, reading and
 
 ## 🔭 I’m currently working on
 - Revising my F1 Telemetry Project to use a serverless architecture
+- An accounting application for an Oil & Gas company
 
 ## 🌱 I’m currently learning 
-- AI Technologies like LangChain
-- AWS
+- Coursework in preparation for the CCNA 
 - Japanese (Currently N4 ^_^)
 
 ## 💪 I excel in:
@@ -25,7 +25,6 @@ Apart from my career aspirations, I enjoy lane swimming, sim racing, reading and
 - Postgres & SQLite
 - Grafana + Prometheus
 - Testing
-- C# + Unity
 - Javascript (React)
 - Django
 
